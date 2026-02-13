@@ -75,12 +75,6 @@ I have industry experience as a **Data Science Intern at Fresenius Digital Techn
 - Improved system accuracy, robustness, and inference efficiency.  
 - Worked on **end-to-end AI system development**, from data preprocessing to deployment-ready pipelines.
 
----
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
 ---
 
