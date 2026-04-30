@@ -1,89 +1,127 @@
-# Hi 👋, I'm Ayush Kumar  
+# Ayush Kumar
 
-🎓 Computer Science Undergraduate | 🤖 Machine Learning & Deep Learning Enthusiast | 🧠 AI Research & Development  
-
-I am a Computer Science undergraduate at **VIT Bhopal University (CGPA: 8.54)** with strong hands-on experience in **Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, and Generative AI systems**. I specialize in building **end-to-end AI solutions**, from data preprocessing and feature engineering to model development, evaluation, and deployment.  
-
-I have industry experience as a **Data Science Intern at Fresenius Digital Technology**, where I worked on predictive modeling, Retrieval-Augmented Generation (RAG) pipelines, and AI-powered document understanding systems. I am highly passionate about developing **scalable, production-grade AI solutions** that solve real-world problems.
+B.Tech Computer Science (VIT Bhopal) | AI/ML Engineer focused on GenAI, RAG Systems, and Applied Machine Learning
 
 ---
 
-## 🚀 Key Projects  
+## About Me
 
-### 🔹 RecruitMatch AI — Intelligent Resume Screening System  
-- Built an **AI-powered resume screening platform** using NLP, Sentence Transformers, and semantic similarity matching.  
-- Designed a **multi-stage skill matching pipeline** over a **200+ skills dataset**, achieving **92% precision**.  
-- Developed a **production-ready Gradio web interface** with robust error handling and modular architecture.  
-- Tech Stack: `Python`, `NLP`, `Sentence Transformers`, `Gradio`, `Machine Learning`, `Deep Learning`
+I am a Computer Science undergraduate with hands-on experience building and deploying end-to-end AI/ML systems, including Retrieval-Augmented Generation (RAG) pipelines, LLM-based applications, and document intelligence systems.
 
----
+During my internship at Fresenius Digital Technology, I worked on real-world machine learning systems and achieved:
+- 15% improvement in model accuracy through optimization techniques
+- 18% improvement in retrieval performance in RAG pipelines
+- 12% reduction in system latency
 
-### 🔹 DocVision AI OCR — RAG-Based Document Understanding System  
-- Built a **document intelligence platform** using **OCR + Retrieval-Augmented Generation (RAG)** pipelines.  
-- Enabled **natural language querying on scanned PDFs** with source attribution.  
-- Improved retrieval accuracy by **18%** and reduced response latency.  
-- Tech Stack: `EasyOCR`, `Sentence Transformers`, `Vector Databases`, `MLflow`, `Deep Learning`
+I specialize in designing production-oriented AI systems that combine machine learning, backend engineering, and scalable deployment.
 
 ---
 
-###🔹 Pixel Localization using CNN Regression
--Designed a CNN-based regression model to accurately predict (x, y) pixel coordinates from grayscale images.
--Built a synthetic data generation pipeline and applied normalization, augmentation, and robust evaluation metrics for precise localization.
--Achieved low pixel-level MAE and RMSE, demonstrating strong spatial prediction performance.
--Tech Stack: 'TensorFlow', 'Keras', 'CNN', 'Regression', 'Computer Vision', 'Deep Learning'
+## Featured Projects
 
+### InboxIQ AI – Email Intelligence System  
+Live: https://inboxiq-36l0.onrender.com/
 
----
-### 🔹 CNN-Based Kidney Disease Detection from CT Scans  
-- Developed a **deep learning pipeline** for automated kidney disease classification.  
-- Implemented **advanced data preprocessing, augmentation, and CNN architectures**.  
-- Achieved **95% accuracy** and **7% improvement in sensitivity**.  
-- Tech Stack: `TensorFlow`, `Keras`, `CNN`, `Medical Imaging`, `Computer Vision`
+- Built a full-stack AI-powered email assistant using FastAPI, Streamlit, and LLaMA 3.1 (Groq)
+- Integrated Gmail API (OAuth) for real-time email processing
+- Designed hybrid pipeline combining rule-based logic + LLM-based classification
+- Reduced API usage by 40–60% through response caching
+- Processed 20+ emails in under 60 seconds
 
----
-
-### 🔹 Multi-Disease Prediction System  
-- Built a **machine learning-based system** for predicting multiple diseases using patient health parameters.  
-- Implemented **feature engineering, model tuning, and evaluation pipelines**.  
-- Tech Stack: `Python`, `Scikit-learn`, `Data Science`, `Machine Learning`
+Tech: Python, FastAPI, LLMs, Groq, NLP, REST APIs
 
 ---
 
-## 🛠️ Technical Skills  
+### RecruitMatch AI – Resume Screening System  
+Live: https://huggingface.co/spaces/Ak47-model-ml/RecruitMatch_AI
 
-**Programming:**  
-`Python`, `SQL`, `C++`  
+- Built an automated resume screening system using NLP and semantic similarity
+- Processed 100+ resumes per batch with embedding-based ranking
+- Achieved 92% matching accuracy across 50+ technical skills
+- Deployed on Hugging Face Spaces with interactive interface
 
-**Machine Learning & AI:**  
-`Machine Learning`, `Deep Learning`, `CNN`, `NLP`, `Computer Vision`, `Generative AI`, `RAG`, `Transformers`  
-
-**Frameworks & Libraries:**  
-`TensorFlow`, `Keras`, `PyTorch`, `Scikit-learn`, `OpenCV`, `NLTK`, `HuggingFace`, `LangChain`  
-
-**Data Science & Tools:**  
-`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `MLflow`, `Git`, `Docker`, `Linux`  
+Tech: Python, NLP, Sentence Transformers, Gradio, Machine Learning
 
 ---
 
-## 💼 Experience  
+### AI Research Assistant – Multi-Agent System
 
-### 📌 Data Science Intern — Fresenius Digital Technology  
-**Duration:** July 2024 – December 2024  
+- Designed a hierarchical multi-agent system using LangGraph
+- Integrated multiple academic sources: ArXiv, PubMed, Semantic Scholar, CORE
+- Built automated research pipeline for report generation and knowledge extraction
+- Implemented vector search using FAISS
 
-- Built predictive models and optimized AI pipelines for real-world healthcare data.  
-- Designed and implemented **RAG-based document intelligence systems**.  
-- Improved system accuracy, robustness, and inference efficiency.  
-- Worked on **end-to-end AI system development**, from data preprocessing to deployment-ready pipelines.
-
+Tech: Python, LangGraph, FAISS, LLMs, Multi-Agent Systems
 
 ---
 
-## 📫 Connect With Me  
+### Text-Based QA System (RAG)
 
-- 📧 Email: ak1357kumar@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/ayush-kumar-1302  
-- 🐙 GitHub: https://github.com/Ayush8092
+- Built a retrieval-based QA system that answers strictly from user-provided context
+- Implemented embedding-based semantic search for accurate retrieval
+- Designed modular pipeline for context ingestion and question answering
+
+Tech: Python, RAG, Embeddings, NLP
 
 ---
+
+### DocVision AI – OCR + Document Intelligence
+
+- Developed OCR-based document QA system for scanned PDFs
+- Built pipeline for text extraction, embeddings, and semantic retrieval
+- Improved retrieval accuracy by 18% on multi-page documents
+- Enabled natural language querying with source grounding
+
+Tech: EasyOCR, Vector Databases, NLP, RAG
+
+---
+
+## Technical Skills
+
+Programming  
+Python, SQL
+
+AI / Machine Learning  
+Machine Learning, Deep Learning, NLP, Computer Vision, LLMs, RAG, Transformers, Feature Engineering, Model Optimization
+
+Frameworks & Tools  
+TensorFlow, PyTorch, Scikit-learn, HuggingFace, LangChain, LangGraph, FastAPI
+
+Data & Systems  
+Pandas, NumPy, Matplotlib, Seaborn, REST APIs, Vector Databases
+
+---
+
+## Experience
+
+Data Science Intern  
+Fresenius Digital Technology (Remote) | May 2025 – August 2025
+
+- Developed and optimized machine learning pipelines for real-world applications
+- Built RAG-based GenAI systems improving response relevance by 18%
+- Reduced system latency by 12% through pipeline optimization
+- Collaborated with cross-functional teams to deliver production-ready AI solutions
+
+---
+
+## Achievements
+
+- EY Mental Health Risk Prediction Challenge – Top 20  
+- Shell.ai Fuel Blend Challenge – Global Rank 46  
+- AWS Zelestra Hackathon – Global Rank 164  
+
+---
+
+## Certifications
+
+- NPTEL – Cloud Computing, Marketing Analytics  
+- GenAI by IBM Adroit  
+
+---
+
+## Links
+
+Email: ak1357kumar@gmail.com  
+GitHub: https://github.com/Ayush8092
 
 ⭐ **If you find my projects useful, consider giving them a star — it motivates me to build more!**  
