@@ -1,127 +1,83 @@
-# Ayush Kumar
+Ayush Kumar
+B.Tech Computer Science (VIT Bhopal, 2026) | AI/ML Engineer focused on GenAI, RAG Systems, and Agentic AI
 
-B.Tech Computer Science (VIT Bhopal) | AI/ML Engineer focused on GenAI, RAG Systems, and Applied Machine Learning
+About Me
+I'm a Computer Science undergraduate specializing in building and deploying production-grade AI/ML systems — from Retrieval-Augmented Generation (RAG) pipelines and multi-agent architectures to LLM-based backend services and real-time observability platforms.
 
----
+*During my internship at Fresenius Digital Technology, I worked on real-world ML and GenAI systems and delivered:*
 
-## About Me
+i.15% improvement in model prediction accuracy through feature engineering and hyperparameter tuning
+ii.18% improvement in RAG pipeline retrieval relevance
+iii.12% reduction in system latency through pipeline optimization
 
-I am a Computer Science undergraduate with hands-on experience building and deploying end-to-end AI/ML systems, including Retrieval-Augmented Generation (RAG) pipelines, LLM-based applications, and document intelligence systems.
+I focus on building AI systems that are reliable, production-oriented, and grounded in sound engineering practices.
 
-During my internship at Fresenius Digital Technology, I worked on real-world machine learning systems and achieved:
-- 15% improvement in model accuracy through optimization techniques
-- 18% improvement in retrieval performance in RAG pipelines
-- 12% reduction in system latency
+*Featured Projects:*
 
-I specialize in designing production-oriented AI systems that combine machine learning, backend engineering, and scalable deployment.
+*PulseDebug AI – AI-Powered Incident & Resilience Analysis Platform*
+Live: https://pulse-debug-ai.vercel.app/ · GitHub: https://github.com/Ayush8092/PulseDebug-AI
 
----
+Built a real-time API observability platform that ingests and analyzes 10,000+ simulated events across 5 microservices, detecting latency spikes, error-rate anomalies, and deployment-linked failures
+Engineered a multi-provider AI orchestration layer integrating Gemini 2.5 Flash and 3 Groq-hosted LLMs with automatic failover, root-cause analysis, confidence scoring, and remediation recommendations
+Developed a resilience auditing engine evaluating backend projects against 8 production safeguards, performing ZIP/log analysis, detecting retry storms and architectural risks, and generating prioritized reports
 
-## Featured Projects
+Tech: Python, FastAPI, Next.js, Gemini 2.5 Flash, Groq, SQLite, Tailwind CSS
 
-### InboxIQ AI – Email Intelligence System  
-Live: https://inboxiq-36l0.onrender.com/
+*DocMind OCR – Autonomous Document Intelligence Platform*
+Live: https://huggingface.co/spaces/Ak47-model-ml/DocMind-OCR · GitHub: https://github.com/Ayush8092/DocMind-OCR
 
-- Built a full-stack AI-powered email assistant using FastAPI, Streamlit, and LLaMA 3.1 (Groq)
-- Integrated Gmail API (OAuth) for real-time email processing
-- Designed hybrid pipeline combining rule-based logic + LLM-based classification
-- Reduced API usage by 40–60% through response caching
-- Processed 20+ emails in under 60 seconds
+Built a multi-agent RAG system orchestrating 5 specialized agents across a 7-stage pipeline for large-document queries with sub-4s average response latency
+Engineered hybrid retrieval across 50+ document chunks using TF-IDF and FAISS vector search, improving retrieval relevance over pure semantic search and reducing hallucinations via dual-signal validation
+Deployed on Hugging Face Spaces with a 10-endpoint REST API supporting 50MB+ multi-document uploads, 6-turn conversational memory, 7 query-type classifications, and Word report generation
 
-Tech: Python, FastAPI, LLMs, Groq, NLP, REST APIs
+Tech: FastAPI, Gradio, LLaMA 3 (Groq), FAISS, TF-IDF, Cross-Encoder, HuggingFace Spaces
 
----
+*InboxIQ AI – Smart Email Assistant*
+Live: https://inboxiq-36l0.onrender.com/ · GitHub: https://github.com/Ayush8092/InboxIQ-AI
 
-### RecruitMatch AI – Resume Screening System  
-Live: https://huggingface.co/spaces/Ak47-model-ml/RecruitMatch_AI
+Built an AI-powered email triage system integrated with Gmail API (OAuth) to classify emails, extract tasks, and generate automated replies
+Designed a hybrid pipeline combining rule-based filtering, LLM-based categorization, and a priority model with real-time learning; integrated HTML-aware parsing for job extraction and resume-based semantic matching
+Deployed a full-stack FastAPI application on Render with JWT authentication and a 9-tab dashboard; reduced API calls by 40–60% using response caching and processed 20+ emails in under 60 seconds
 
-- Built an automated resume screening system using NLP and semantic similarity
-- Processed 100+ resumes per batch with embedding-based ranking
-- Achieved 92% matching accuracy across 50+ technical skills
-- Deployed on Hugging Face Spaces with interactive interface
+Tech: Python, FastAPI, Streamlit, LLaMA 3.1 (Groq), Gmail OAuth, JWT, Render
 
-Tech: Python, NLP, Sentence Transformers, Gradio, Machine Learning
-
----
-
-### AI Research Assistant – Multi-Agent System
-
-- Designed a hierarchical multi-agent system using LangGraph
-- Integrated multiple academic sources: ArXiv, PubMed, Semantic Scholar, CORE
-- Built automated research pipeline for report generation and knowledge extraction
-- Implemented vector search using FAISS
-
-Tech: Python, LangGraph, FAISS, LLMs, Multi-Agent Systems
-
----
-
-### Text-Based QA System (RAG)
-
-- Built a retrieval-based QA system that answers strictly from user-provided context
-- Implemented embedding-based semantic search for accurate retrieval
-- Designed modular pipeline for context ingestion and question answering
-
-Tech: Python, RAG, Embeddings, NLP
-
----
-
-### DocVision AI – OCR + Document Intelligence
-
-- Developed OCR-based document QA system for scanned PDFs
-- Built pipeline for text extraction, embeddings, and semantic retrieval
-- Improved retrieval accuracy by 18% on multi-page documents
-- Enabled natural language querying with source grounding
-
-Tech: EasyOCR, Vector Databases, NLP, RAG
-
----
-
-## Technical Skills
-
-Programming  
+Technical Skills
+Programming
 Python, SQL
+GenAI & LLM
+LLMs, RAG, Agentic AI, NLP, Prompt Engineering, Multi-Agent Systems, GenAI Application Development
+Machine Learning
+Regression, Classification, Feature Engineering, Model Optimization, Hyperparameter Tuning, Cross-Validation
+Backend & Systems
+FastAPI, Vector Databases (FAISS), JWT Authentication, REST APIs
+Data & Analysis
+Pandas, NumPy, Matplotlib, Seaborn
 
-AI / Machine Learning  
-Machine Learning, Deep Learning, NLP, Computer Vision, LLMs, RAG, Transformers, Feature Engineering, Model Optimization
-
-Frameworks & Tools  
-TensorFlow, PyTorch, Scikit-learn, HuggingFace, LangChain, LangGraph, FastAPI
-
-Data & Systems  
-Pandas, NumPy, Matplotlib, Seaborn, REST APIs, Vector Databases
-
----
-
-## Experience
-
-Data Science Intern  
+Experience
+Data Science Intern
 Fresenius Digital Technology (Remote) | May 2025 – August 2025
 
-- Developed and optimized machine learning pipelines for real-world applications
-- Built RAG-based GenAI systems improving response relevance by 18%
-- Reduced system latency by 12% through pipeline optimization
-- Collaborated with cross-functional teams to deliver production-ready AI solutions
+Developed and optimized ML pipelines, achieving a 15% improvement in prediction accuracy through feature engineering, hyperparameter tuning, and cross-validation
+Architected RAG-based GenAI pipelines using Python, improving response relevance by 18% and reducing latency by 12%
+Collaborated cross-functionally to develop 4 ML models improving prediction accuracy and decision reliability
 
----
 
-## Achievements
+Achievements
 
-- EY Mental Health Risk Prediction Challenge – Top 20  
-- Shell.ai Fuel Blend Challenge – Global Rank 46  
-- AWS Zelestra Hackathon – Global Rank 164  
+EY Mental Health Risk Prediction Challenge – Top 20
+Shell.ai Fuel Blend Challenge – Global Rank 46
+AWS Zelestra Hackathon – Global Rank 164
 
----
 
-## Certifications
+Certifications
 
-- NPTEL – Cloud Computing, Marketing Analytics  
-- GenAI by IBM Adroit  
+NPTEL – Cloud Computing
+NPTEL – Marketing Analytics
+GenAI by IBM Adroit
 
----
 
-## Links
-
-Email: ak1357kumar@gmail.com  
+Links
+Email: ak1357kumar@gmail.com
 GitHub: https://github.com/Ayush8092
-
-⭐ **If you find my projects useful, consider giving them a star — it motivates me to build more!**  
+LinkedIn: https://linkedin.com/in/ayush-kumar
+⭐ If you find my projects useful, consider giving them a star — it motivates me to keep building!
